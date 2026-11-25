@@ -1,4 +1,13 @@
 >game,T6
 >name,mod
+>ipak,mod
+
+techniqueset,,trivial_9z33feqw
+
+image,boolean_false
+image,boolean_true
+
+material,boolean_false
+material,boolean_true
 
 script,maps/mp/gametypes_zm/_clientids.gsc
