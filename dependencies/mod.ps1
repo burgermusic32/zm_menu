@@ -16,6 +16,6 @@ $null = new-item $output -itemtype directory -force
 [ordered]@{
     name = 'Hello, World!'
     author = 'burgermusic32'
-    description = 'did not test anything btw'
+    description = 'Hunk_AllocateTempMemory'
     version = (get-date -format f)
 } | convertto-json | set-content "$output\mod.json" -encoding utf8 -nonewline
